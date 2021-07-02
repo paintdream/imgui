@@ -1,0 +1,3 @@
+[submodule "misc/dispatcher"]
+	path = misc/dispatcher
+	url = https://github.com/paintdream/grid_dispatcher.git
